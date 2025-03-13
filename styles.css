@@ -80,7 +80,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/brasaocastlevania.png') top right no-repeat,
-        url('img/') bottom left no-repeat;
+        url('img/bichinos.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/mao.png') bottom right no-repeat;
+    background: url('img/bichinos.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
