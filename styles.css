@@ -36,8 +36,8 @@ section {
     background-position: right;
     border-radius: 80px;
     width: 100%;
-    height: 100px;
-    padding: 10px;
+    height: 606px;
+    padding: 40px;
     margin: 0 auto;
 }
 
@@ -45,7 +45,7 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 18rem;
+    top: 80rem;
     width: 45rem;
     height: auto;
 }
