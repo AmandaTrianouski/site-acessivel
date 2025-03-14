@@ -47,13 +47,12 @@ section {
     right: 0;
     top: 40rem;
     width: 42rem;
-    height: auto;
+    height: 900;
 }
 
 
 .esquerda-conteudo {
     display: flex;
-    height: 1100;
     flex-direction: column;
     align-items: flex-start;
     gap: 1rem;
